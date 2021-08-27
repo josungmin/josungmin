@@ -1,7 +1,9 @@
 👋 Hi there! I'm **game client programmer** using Unity.
 
 My major is **game software**:video_game:. 
+<br/><br/><br/>
 
+### Career
 | Type             | Date                         | Contents                                                 | Organization      |
 |------------------|------------------------------|----------------------------------------------------------|-------------------|
 |<div align="center">Education|<div align="center">2018. 3<br/> ~<br/> 2024. 3|<div align="center">Department of Game Software|<div align="center"> Hongik University|
