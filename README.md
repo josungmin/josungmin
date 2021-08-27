@@ -1,5 +1,6 @@
-### Hi there 👋
-ㅁㄴㅇ
+👋 Hi there! I'm **game client programmer** using Unity.
+
+My major is **game software**:video_game:. 
 
 <!--
 **josungmin/josungmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
